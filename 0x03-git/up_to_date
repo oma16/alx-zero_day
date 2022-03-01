@@ -1,0 +1,7 @@
+git clone
+git add .
+git commit -m "my first commit"
+git status
+git push
+git pull
+git checkout -b <branch name>
